@@ -1,4 +1,4 @@
-# Tdd_FizzBuzz_Kata
+# TDD Kata - FizzBuzz
 This code was created during a 30-minute TDD Kata presentation on 2015-01-07 using feedback from the KCPUG audience.
 
 One thing to notice about this kata is that we are using the tests to define what the final form of the class should do. We are thinking about the various rules and promises we are making about the FizzBuzz class as we create more tests and assertions.
